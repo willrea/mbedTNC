@@ -2680,8 +2680,8 @@ Source: http://focus.ti.com/lit/ds/symlink/tps61200.pdf</description>
 <smd name="C3" x="-0.42" y="-2.54" dx="4.06" dy="1.52" layer="1" cream="no"/>
 <smd name="C4" x="-0.42" y="2.54" dx="4.06" dy="1.52" layer="16" cream="no"/>
 <smd name="C5" x="-0.42" y="-2.54" dx="4.06" dy="1.52" layer="16" cream="no"/>
-<rectangle x1="2.03" y1="-3.965" x2="3.29" y2="3.965" layer="21"/>
-<rectangle x1="3.29" y1="-3.09371875" x2="9.64" y2="3.09371875" layer="21"/>
+<rectangle x1="2.03" y1="-3.965" x2="3.29" y2="3.965" layer="51"/>
+<rectangle x1="3.29" y1="-3.09371875" x2="9.64" y2="3.09371875" layer="51"/>
 </package>
 <package name="BATTCON_12MMPC">
 <smd name="C1" x="0" y="0" dx="3.96" dy="3.96" layer="1"/>
